@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="3D Gallery with CSS3 and jQuery" />
+        <meta name="keywords" content="3d, gallery, jquery, css3, auto, slideshow, navigate, mouse scroll, perspective" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/modernizr.custom.53451.js"></script>
+    </head>
+    <body>
+        <div class="container">
+		
+			<header>
+				
+			</header>
+			<section id="dg-container" class="dg-container">
+				<div class="dg-wrapper">
+					<a href="#"><img src="images/keyboard_000018984124Medium.jpg" alt="image01"><div></div></a>
+					<a href="#"><img src="images/images.jpg" alt="image02"><div></div></a>
+					<a href="#"><img src="images/index.jpg" alt="image03"><div></div></a>
+				</div>
+				<!--nav>	
+					<span class="dg-prev">&lt;</span>
+					<span class="dg-next">&gt;</span>
+				</nav-->
+			</section>
+        </div>
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.gallery.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				$('#dg-container').gallery({
+					autoplay	:	true
+				});
+			});
+		</script/>
+    </body>
+</html>

@@ -1,0 +1,135 @@
+a:10:{s:4:"time";a:0:{}s:4:"away";a:0:{}s:4:"gndr";a:0:{}s:4:"stat";a:0:{}s:4:"room";a:0:{}s:4:"user";a:0:{}s:4:"pass";a:0:{}s:4:"data";a:38:{i:0;s:30:"+
+Main Room
+user
+none
+none";i:1;a:5:{s:4:"time";i:1395799580;s:4:"room";s:9:"Main Room";s:4:"user";s:4:"user";s:4:"priv";s:1:".";s:4:"data";s:44:"m
+#90b0d0
+none
+none
+user
+.
+sajdbjkasdb";}i:2;s:18:"-
+Main Room
+user";i:3;s:27:"+
+Room 1
+user
+none
+none";i:4;a:5:{s:4:"time";i:1395799589;s:4:"room";s:6:"Room 1";s:4:"user";s:4:"user";s:4:"priv";s:1:".";s:4:"data";s:48:"m
+#90b0d0
+none
+none
+user
+.
+asbdkjasdnjkasd";}i:5;a:5:{s:4:"time";i:1395799591;s:4:"room";s:6:"Room 1";s:4:"user";s:4:"user";s:4:"priv";s:1:".";s:4:"data";s:44:"m
+#90b0d0
+none
+none
+user
+.
+asnmd nasmd";}i:6;a:5:{s:4:"time";i:1395799598;s:4:"room";s:6:"Room 1";s:4:"user";s:4:"user";s:4:"priv";s:1:".";s:4:"data";s:41:"m
+#90b0d0
+none
+none
+user
+.
+%%geek%%";}i:7;s:15:"-
+Room 1
+user";i:8;s:27:"+
+Room 1
+user
+none
+none";i:9;s:10:"s
+user
+-";i:10;s:15:"-
+Room 1
+user";i:11;s:29:"+
+Main Room
+tes
+none
+none";i:12;a:5:{s:4:"time";i:1429790490;s:4:"room";s:9:"Main Room";s:4:"user";s:3:"tes";s:4:"priv";s:1:".";s:4:"data";s:37:"m
+#d0b0b0
+none
+none
+tes
+.
+sdasd";}i:13;a:5:{s:4:"time";i:1429790493;s:4:"room";s:9:"Main Room";s:4:"user";s:3:"tes";s:4:"priv";s:1:".";s:4:"data";s:38:"m
+#d0b0b0
+none
+none
+tes
+.
+asdasd";}i:14;s:35:"+
+Main Room
+guest-tes
+none
+none";i:15;a:5:{s:4:"time";i:1429790517;s:4:"room";s:9:"Main Room";s:4:"user";s:9:"guest-tes";s:4:"priv";s:1:".";s:4:"data";s:44:"m
+#d0b0b0
+none
+none
+guest-tes
+.
+sdfsdf";}i:16;s:17:"-
+Main Room
+tes";i:17;s:15:"s
+guest-tes
+-";i:18;s:23:"-
+Main Room
+guest-tes";i:19;s:35:"+
+Main Room
+guest-tes
+none
+none";i:20;s:23:"-
+Main Room
+guest-tes";i:21;s:32:"+
+Room 1
+guest-tes
+none
+none";i:22;s:20:"-
+Room 1
+guest-tes";i:23;s:32:"+
+Room 2
+guest-tes
+none
+none";i:24;s:20:"-
+Room 2
+guest-tes";i:25;s:35:"+
+Main Room
+guest-tes
+none
+none";i:26;s:15:"s
+guest-tes
+-";i:27;s:23:"-
+Main Room
+guest-tes";i:28;s:30:"+
+Main Room
+yuli
+none
+none";i:29;a:5:{s:4:"time";i:1433465042;s:4:"room";s:9:"Main Room";s:4:"user";s:4:"yuli";s:4:"priv";s:1:".";s:4:"data";s:36:"m
+#3090d0
+none
+none
+yuli
+.
+tes";}i:30;s:18:"-
+Main Room
+yuli";i:31;s:27:"+
+Room 1
+yuli
+none
+none";i:32;s:15:"-
+Room 1
+yuli";i:33;s:27:"+
+Room 2
+yuli
+none
+none";i:34;s:15:"-
+Room 2
+yuli";i:35;s:30:"+
+Main Room
+yuli
+none
+none";i:36;s:10:"s
+yuli
+-";i:37;s:18:"-
+Main Room
+yuli";}s:4:"kick";a:0:{}s:4:"mute";a:0:{}}
